@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------
 // Config
 // ---------------------------------------------------------------
-const API_URL = "https://mental-health-score-predictor-1-k94j.onrender.com";
+const API_URL = "https://mental-health-score-predictor-1-k94j.onrender.com/predict";
 
 // The API does not publish a fixed range for the score, but the
 // dial needs one to draw an arc. 0–10 matches the scale this kind
